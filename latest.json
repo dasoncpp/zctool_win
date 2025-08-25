@@ -1,0 +1,11 @@
+{
+  "version": "0.2.0",
+  "notes": "新功能：\n- 添加自更新功能\n- 性能优化\n- 修复已知问题",
+  "pub_date": "2025-08-25T12:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "签名内容",
+      "url": "https://your-server.com/app-0.2.0-x64-setup.exe"
+    }
+  }
+}
